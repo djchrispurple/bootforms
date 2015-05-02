@@ -5,3 +5,4 @@ To Do
 - HTML5 elements like email and date
 
 - Horizontal inline checkbox/radio
+- allowing fields with no label generated and just placeholder
